@@ -1,10 +1,3 @@
-/**
-Kumpulan 4 (booking record (Flight ticket))
-1. Ferez Fernandez BI19110170
-2. Tan Zheng Yuan BI19110238
-3. Nethanel Jushua BI19110167
-**/
-
 import java.util.*;
 
 public class Main {
